@@ -114,6 +114,8 @@ Each submission will be manually verified before its benchmark is run on the ben
 
 If needed, multiple runs will be performed for the top submissions, and their average will be compared.
 
+Finally, everyone is asked to respect other participant's entries. You can look at others for inspiration (simply because there's no way we can prevent that from happening), but straight-up copying other entries is prohibited. We'll try our best to watch over this. If you run into any issues, feel free to tag @brendt or @xHeaven in the PR comments.
+
 #### Why not one billion?
 
 This challenge was inspired by the [1 billion row challenge in Java](https://github.com/gunnarmorling/1brc). The reason we're using only 100 million rows is because this version has a lot more complexity compared to the Java version (date parsing, JSON encoding, array sorting).
